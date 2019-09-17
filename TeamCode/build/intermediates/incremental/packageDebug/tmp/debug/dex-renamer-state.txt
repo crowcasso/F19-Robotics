@@ -1,0 +1,4 @@
+#Thu Sep 12 12:14:58 EDT 2019
+base.0=/Users/jhollingsworth/Desktop/fall_2019/robotics/ftc_app-master/TeamCode/build/intermediates/dex/debug/mergeDexDebug/out/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
